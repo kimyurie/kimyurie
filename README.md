@@ -69,7 +69,7 @@
       src="https://img.shields.io/badge/9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
-<br>
+<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyurie&theme=radical&show_icons=true)
 <br/><br/>
 
