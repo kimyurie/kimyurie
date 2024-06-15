@@ -1,6 +1,4 @@
 ## Hi there 👋
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyurie&theme=radical&show_icons=true)
 
 <!--
