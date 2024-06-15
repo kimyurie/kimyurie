@@ -1,6 +1,6 @@
-
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;)](https://git.io/typing-svg)
 <div align="center">
-  ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;)](https://git.io/typing-svg)
+ 
 </div>
 
 <!--내용 부분-->
