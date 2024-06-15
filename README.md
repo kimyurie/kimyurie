@@ -64,9 +64,9 @@
 <!--   <a href="https://hsyr1791.tistory.com/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a> -->
-  <a href="mailto:9911dbfl@naver.com">
+  <a href="">
     <img
-      src="https://img.shields.io/badge/mailto:9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
