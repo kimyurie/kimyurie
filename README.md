@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Second+line+of+text)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyurie&theme=radical&show_icons=true)
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyurie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
