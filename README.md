@@ -66,7 +66,7 @@
   </a> -->
   <a href="mailto:9911dbfl@naver.com">
     <img
-      src="https://img.shields.io/badge/mailto:9911dbfl@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/mailto:9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
 
