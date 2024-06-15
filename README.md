@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyurie&theme=radical&show_icons=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyurie&layout=compact)
+<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyurie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kimyurie/kimyurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
