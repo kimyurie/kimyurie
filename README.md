@@ -1,7 +1,4 @@
- ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;)](https://git.io/typing-svg)
-<div align="center">
- 
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Yuri's+github&fontAlign=70)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -66,17 +63,28 @@
   </a> -->
   <a href="">
     <img
-      src="https://img.shields.io/badge/9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
-<br/><br/>
+<hr>
 
 <div align="center">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyurie&theme=radical&show_icons=true)
 
 </div>
-<br/><br/>
+
+<div align="center">
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyurie&layout=compact&theme=radical)
+</div>
+<br/>
+
+<div align="center">
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9911dbfl)](https://solved.ac/9911dbfl/)
+
+</div>
 
 <!--
 **kimyurie/kimyurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
