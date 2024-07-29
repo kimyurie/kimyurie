@@ -74,11 +74,7 @@
 <br/>
 
 <hr>
-<div align="center">
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9911dbfl)](https://solved.ac/9911dbfl/)
 
-</div>
 
 <!--
 **kimyurie/kimyurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
