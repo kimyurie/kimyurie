@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
 </div>
 
 <br>
