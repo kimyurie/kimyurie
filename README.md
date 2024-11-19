@@ -67,11 +67,17 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyurie&layout=compact&theme=radical)
 
 </div>
-
-<div align="center">
-
-</div>
 <br/>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/kimyurie"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
+
 
 <hr>
 
