@@ -50,14 +50,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/9911dbfl@naver.com-43853D?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-</div>
-<br>
+
 
 <hr>
 
