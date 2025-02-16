@@ -51,11 +51,12 @@
 <br>
 
 <h3 align="center">📑 Project 📑</h3>
-
+  
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|외국인 관광객과 유학생을 위한 여행 통합 플랫폼| Back : Java, Spring Boot <br> Front : HTMl, CSS, React<br> DB: MariaDB | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Urcarcher/urcarcher-be)|
-|친환경 리사이클링 쇼핑몰 새롬터| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
+|외국인을 위한 여행 통합 카드 플랫폼<br>"어카쳐(Urcarcher)"| Back : Java, Spring Boot <br> Front : HTML, CSS, React<br> DB: MariaDB | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Urcarcher/urcarcher-be)|
+|친환경 리사이클링 쇼핑몰 <br>"새롬터"| Back : Java, Spring<br> Front : HTML, CSS, JS<br> DB: MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/Saerom-teo/server)|
+
 
 
 
