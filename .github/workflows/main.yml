@@ -1,0 +1,45 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  # 1시간마다 실행
+  workflow_dispatch:  # 수동 실행 가능하도록 설정
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ✅ GitHub Actions가 README.md를 수정할 권한 부여
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # 현재 코드 가져오기
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm ci
+          npm install rss-parser
+
+      - name: Update README with latest blog posts
+        run: node index.js  # ✅ 우리가 만든 index.js 실행
+
+      - name: Check for changes
+        id: verify_diff
+        run: |
+          git diff --quiet || echo "changed=true" >> $GITHUB_ENV
+
+      - name: Commit changes
+        if: env.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest blog posts"
+          git push origin main
