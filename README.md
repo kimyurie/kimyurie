@@ -93,12 +93,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://hsyr1791.tistory.com/224" target="_blank">test22</a></li>
 <li><a href="https://hsyr1791.tistory.com/223" target="_blank">test</a></li>
 <li><a href="https://hsyr1791.tistory.com/220" target="_blank">[CS/JAVA] SerialVersionUID를 선언해야 하는 이유 / 인스턴스 초기화 블럭과 정적 초기화 블럭</a></li>
 <li><a href="https://hsyr1791.tistory.com/219" target="_blank">[CS/JAVA] final / finally / finalize 의 차이 / 직렬화(Serialize)</a></li>
 <li><a href="https://hsyr1791.tistory.com/217" target="_blank">[프로그래머스/JAVA] 소수 만들기</a></li>
-<li><a href="https://hsyr1791.tistory.com/216" target="_blank">[프로그래머스/JAVA] 소수 찾기</a></li>
 </ul>
+
 
 
 
