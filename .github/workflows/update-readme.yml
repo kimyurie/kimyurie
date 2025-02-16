@@ -8,7 +8,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repositorys
         uses: actions/checkout@v3
 
       - name: Fetch latest blog posts
