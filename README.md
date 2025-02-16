@@ -74,6 +74,10 @@
 
 <hr>
 
+## 📢 Latest Blog Posts
+{% blogPosts %}
+
+
 
 <!--
 **kimyurie/kimyurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
