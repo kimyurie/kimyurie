@@ -1,11 +1,9 @@
 name: Update README with latest blog posts
 
 on:
-  schedule:
-    - cron: "0 */1 * * *"  # 1시간마다 실행
-  workflow_dispatch:  # 수동 실행 가능하도록 설정
+  workflow_dispatch:  # ✅ 수동 실행 가능하도록 설정
   push:
-    branches: [ master ]  # ✅ master 브랜치로 변경
+    branches: [ master ]  # ✅ master 브랜치에서 실행
 
 jobs:
   update-readme:
@@ -24,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm ci
+          npm install  # ✅ `npm ci` 대신 `npm install` 사용
           npm install rss-parser
 
       - name: Update README with latest blog posts
@@ -38,8 +36,8 @@ jobs:
       - name: Commit changes
         if: env.changed == 'true'
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "kimyurie"  # ✅ 내 깃허브 계정 사용
+          git config --global user.email "내 깃허브 이메일"  # ✅ 내 깃허브 이메일 사용
           git add README.md
           git commit -m "Update README with latest blog posts"
           git push origin master  # ✅ master 브랜치로 푸시
