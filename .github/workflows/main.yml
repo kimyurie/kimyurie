@@ -37,7 +37,7 @@ jobs:
         if: env.changed == 'true'
         run: |
           git config --global user.name "kimyurie"  # ✅ 내 깃허브 계정 사용
-          git config --global user.email "내 깃허브 이메일"  # ✅ 내 깃허브 이메일 사용
+          git config --global user.email "9911dbfl@naver.com"  # ✅ 내 깃허브 이메일 사용
           git add README.md
           git commit -m "Update README with latest blog posts"
           git push origin master  # ✅ master 브랜치로 푸시
