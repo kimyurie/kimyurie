@@ -107,12 +107,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://hsyr1791.tistory.com/233" target="_blank">[CS/Network] 웹 동작 방식 이해 : https://www.google.com/ 을 접속할 때 일어나는 일 / 3 way-handshake와 4 way-handshake</a></li>
 <li><a href="https://hsyr1791.tistory.com/232" target="_blank">[CS/Network] 쿠키(Cookie)와 세션(Session)의 차이점</a></li>
 <li><a href="https://hsyr1791.tistory.com/231" target="_blank">[CS/Network] HTTP 프로토콜 / HTTP와 HTTPS의 차이점</a></li>
 <li><a href="https://hsyr1791.tistory.com/230" target="_blank">[CS/Database]  Elastic Search / Elastic Search의 인덱스구조와 RDBMS의 인덱스 구조의 차이 / Elastic Search의 키워드 검색과 RDBMS의 LIKE 검색의 차이</a></li>
 <li><a href="https://hsyr1791.tistory.com/228" target="_blank">[CS/Database] Redis / Redis와 Memcached 차이</a></li>
-<li><a href="https://hsyr1791.tistory.com/226" target="_blank">[CS/Database] NoSQL / RDBMS와 NoSQL의 차이</a></li>
 </ul>
+
 
 
 
