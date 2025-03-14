@@ -107,12 +107,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://hsyr1791.tistory.com/243" target="_blank">[CS/Programming] RESTful API / RESTful하게 API를 디자인 한다는 것</a></li>
 <li><a href="https://hsyr1791.tistory.com/242" target="_blank">[CS/Spring] JPA / JPA N + 1 문제와 해결 방법</a></li>
 <li><a href="https://hsyr1791.tistory.com/237" target="_blank">[CS/Spring] Spring MVC / MVC의 요청 흐름 처리 방식 / Dispatcher Servlet / Handler Mapping / View Resolver</a></li>
 <li><a href="https://hsyr1791.tistory.com/236" target="_blank">[CS/Spring] Spring Framework / Spring Boot와 Spring Framework의 차이 / 제어의 역전(IoC) / 의존성 주입(DI)</a></li>
 <li><a href="https://hsyr1791.tistory.com/235" target="_blank">[CS/Network] OSI 7 Layer</a></li>
-<li><a href="https://hsyr1791.tistory.com/234" target="_blank">[CS/Network] TCP와 UDP의 차이 / TCP 3, 4 way-handshake</a></li>
 </ul>
+
 
 
 
