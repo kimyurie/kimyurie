@@ -107,12 +107,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
+<li><a href="https://hsyr1791.tistory.com/268" target="_blank">[CS/Programming]  TDD(Test-Driven-Development)</a></li>
 <li><a href="https://hsyr1791.tistory.com/251" target="_blank">[CI/CD] Docker / 컨테이너(Container) / 이미지(Image)</a></li>
 <li><a href="https://hsyr1791.tistory.com/250" target="_blank">[CS/Spring] Spring Bean Scope / Spring의 스코프 프로토 타입 빈</a></li>
 <li><a href="https://hsyr1791.tistory.com/243" target="_blank">[CS/Programming] RESTful API / RESTful하게 API를 디자인 한다는 것</a></li>
 <li><a href="https://hsyr1791.tistory.com/242" target="_blank">[CS/Spring] JPA / JPA N + 1 문제와 해결 방법</a></li>
-<li><a href="https://hsyr1791.tistory.com/240" target="_blank">[CS/Spring] Spring Bean / Spring Bean 등록 방법 / Spring Bean 생명주기</a></li>
 </ul>
+
 
 
 
