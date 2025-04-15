@@ -108,11 +108,12 @@ Here are some ideas to get you started:
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
 <li><a href="https://hsyr1791.tistory.com/268" target="_blank">[CS/Programming]  TDD(Test-Driven-Development)</a></li>
+<li><a href="https://hsyr1791.tistory.com/264" target="_blank">[Tech Article] &quot;성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙&quot; 을 읽고</a></li>
 <li><a href="https://hsyr1791.tistory.com/251" target="_blank">[CI/CD] Docker / 컨테이너(Container) / 이미지(Image)</a></li>
 <li><a href="https://hsyr1791.tistory.com/250" target="_blank">[CS/Spring] Spring Bean Scope / Spring의 스코프 프로토 타입 빈</a></li>
 <li><a href="https://hsyr1791.tistory.com/245" target="_blank">[CS/Programming] JWT(JSON Web Token) / OAuth</a></li>
-<li><a href="https://hsyr1791.tistory.com/243" target="_blank">[CS/Programming] RESTful API / RESTful하게 API를 디자인 한다는 것</a></li>
 </ul>
+
 
 
 
