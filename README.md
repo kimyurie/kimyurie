@@ -108,12 +108,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📢 Latest Blog Posts</h3>
 <ul>
-<li><a href="https://hsyr1791.tistory.com/282" target="_blank">[JS] 이벤트 버블링 / 이벤트 캡쳐링 / 이벤트 위임</a></li>
-<li><a href="https://hsyr1791.tistory.com/280" target="_blank">[JS] 브라우저의 랜더링 원리 / HTML 랜더링 중에 Javascript가 실행되면 렌더링이 멈추는 이유</a></li>
-<li><a href="https://hsyr1791.tistory.com/264" target="_blank">[Tech Article] &quot;성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙&quot; 을 읽고</a></li>
-<li><a href="https://hsyr1791.tistory.com/251" target="_blank">[CI/CD] Docker / 컨테이너(Container) / 이미지(Image)</a></li>
-<li><a href="https://hsyr1791.tistory.com/250" target="_blank">[CS/Spring] Spring Bean Scope / Spring의 스코프 프로토 타입 빈</a></li>
+<li><a href="https://hsyr1791.tistory.com/324" target="_blank">[Project/FE] Redux를 활용한 차트 기간 상태 리팩토링</a></li>
+<li><a href="https://hsyr1791.tistory.com/320" target="_blank">[Project/FE] TanStack Query 기반 신체 데이터 저장 컴포넌트 구현</a></li>
+<li><a href="https://hsyr1791.tistory.com/317" target="_blank">[Project/FE] Axios 인터셉터 기반 Access/Refresh 토큰 자동 재발급 및 인증 처리 구현</a></li>
+<li><a href="https://hsyr1791.tistory.com/316" target="_blank">[Project/BE] Redis 사용해 Refresh Token 발급 구현</a></li>
+<li><a href="https://hsyr1791.tistory.com/315" target="_blank">[Project/FE] Axios interceptor 기반 JWT 인증 처리 구현</a></li>
 </ul>
+
 
 
 
